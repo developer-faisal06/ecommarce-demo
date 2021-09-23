@@ -1,0 +1,37 @@
+.product-div {
+    background-color: silver;
+    display: flex;
+}
+
+.product-img {
+    padding: 15px;
+}
+
+.product-info {
+    padding: 15px;
+}
+
+.product-info h5 {
+    padding-top: 20px;
+    color: rgb(255, 0, 221) !important;
+}
+
+.product-info span {
+    color: red;
+    font-size: 20px;
+}
+
+.regular-btn {
+    padding: 10px 30px;
+    margin-top: 15px;
+    color: #fff;
+    font-size: 18px;
+    background-color: rgb(210, 60, 255);
+    border: 2px solid rgb(4, 0, 255);
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.regular-btn:hover {
+    background-color: rgb(245, 48, 156);
+}

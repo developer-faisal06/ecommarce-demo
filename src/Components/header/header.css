@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    padding: 10px;
+    text-align: center;
+    background-color: aquamarine;
+}
+
+.logo {
+    width: 200px;
+}
+
+.header nav {
+    background-color: black;
+    padding: 10px;
+}
+
+.header nav a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 10px;
+    transition: .5s all;
+}
+
+.header nav a:hover {
+    background-color: rgb(64, 70, 255);
+    padding: 10px;
+}
